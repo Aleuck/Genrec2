@@ -1,0 +1,77 @@
+C:\Users\deividim\documents\visual studio 2010\Projects\GabineteDigital\GabineteDigital\bin\GabineteDigital.dll
+C:\Users\deividim\documents\visual studio 2010\Projects\GabineteDigital\GabineteDigital\bin\GabineteDigital.pdb
+C:\Users\deividim\documents\visual studio 2010\Projects\GabineteDigital\GabineteDigital\bin\Facebook.dll
+C:\Users\deividim\documents\visual studio 2010\Projects\GabineteDigital\GabineteDigital\bin\Facebook.xml
+C:\Users\deividim\documents\visual studio 2010\Projects\GabineteDigital\GabineteDigital\obj\Release\ResolveAssemblyReference.cache
+C:\Users\deividim\documents\visual studio 2010\Projects\GabineteDigital\GabineteDigital\obj\Release\GabineteDigital.dll
+C:\Users\deividim\documents\visual studio 2010\Projects\GabineteDigital\GabineteDigital\obj\Release\GabineteDigital.pdb
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\ReitoriaDigital\ReitoriaDigital\bin\GabineteDigital.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\ReitoriaDigital\ReitoriaDigital\bin\GabineteDigital.pdb
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\ReitoriaDigital\ReitoriaDigital\bin\Facebook.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\ReitoriaDigital\ReitoriaDigital\bin\Facebook.xml
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\ReitoriaDigital\ReitoriaDigital\obj\Release\ResolveAssemblyReference.cache
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\ReitoriaDigital\ReitoriaDigital\obj\Release\GabineteDigital.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\ReitoriaDigital\ReitoriaDigital\obj\Release\GabineteDigital.pdb
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\ReitoriaDigital\ReitoriaDigital\bin\Common.Logging.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\ReitoriaDigital\ReitoriaDigital\bin\Newtonsoft.Json.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\ReitoriaDigital\ReitoriaDigital\bin\TweetSharp.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\ReitoriaDigital\ReitoriaDigital\bin\Newtonsoft.Json.xml
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\ReitoriaDigital\ReitoriaDigital\bin\TweetSharp.pdb
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\ReitoriaDigital\ReitoriaDigital\bin\Hammock.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\ReitoriaDigital\ReitoriaDigital\bin\Hammock.pdb
+Z:\ReitoriaDigital\bin\GabineteDigital.dll
+Z:\ReitoriaDigital\bin\GabineteDigital.pdb
+Z:\ReitoriaDigital\bin\Common.Logging.dll
+Z:\ReitoriaDigital\bin\Facebook.dll
+Z:\ReitoriaDigital\bin\Hammock.dll
+Z:\ReitoriaDigital\bin\Newtonsoft.Json.dll
+Z:\ReitoriaDigital\bin\TweetSharp.dll
+Z:\ReitoriaDigital\bin\Facebook.xml
+Z:\ReitoriaDigital\bin\Hammock.pdb
+Z:\ReitoriaDigital\bin\Newtonsoft.Json.xml
+Z:\ReitoriaDigital\bin\TweetSharp.pdb
+Z:\ReitoriaDigital\obj\Release\ResolveAssemblyReference.cache
+Z:\ReitoriaDigital\obj\Release\GabineteDigital.dll
+Z:\ReitoriaDigital\obj\Release\GabineteDigital.pdb
+C:\Users\cristianol\Documents\ReitoriaDigital\ReitoriaDigital\bin\GabineteDigital.dll
+C:\Users\cristianol\Documents\ReitoriaDigital\ReitoriaDigital\bin\GabineteDigital.pdb
+C:\Users\cristianol\Documents\ReitoriaDigital\ReitoriaDigital\bin\Common.Logging.dll
+C:\Users\cristianol\Documents\ReitoriaDigital\ReitoriaDigital\bin\Facebook.dll
+C:\Users\cristianol\Documents\ReitoriaDigital\ReitoriaDigital\bin\Hammock.dll
+C:\Users\cristianol\Documents\ReitoriaDigital\ReitoriaDigital\bin\Newtonsoft.Json.dll
+C:\Users\cristianol\Documents\ReitoriaDigital\ReitoriaDigital\bin\Oracle.DataAccess.dll
+C:\Users\cristianol\Documents\ReitoriaDigital\ReitoriaDigital\bin\TweetSharp.dll
+C:\Users\cristianol\Documents\ReitoriaDigital\ReitoriaDigital\bin\Facebook.xml
+C:\Users\cristianol\Documents\ReitoriaDigital\ReitoriaDigital\bin\Hammock.pdb
+C:\Users\cristianol\Documents\ReitoriaDigital\ReitoriaDigital\bin\Newtonsoft.Json.xml
+C:\Users\cristianol\Documents\ReitoriaDigital\ReitoriaDigital\bin\TweetSharp.pdb
+C:\Users\cristianol\Documents\ReitoriaDigital\ReitoriaDigital\obj\Release\GabineteDigital.dll
+C:\Users\cristianol\Documents\ReitoriaDigital\ReitoriaDigital\obj\Release\GabineteDigital.pdb
+Z:\ReitoriaDigital_Desenv\ReitoriaDigital\bin\Common.Logging.dll
+Z:\ReitoriaDigital_Desenv\ReitoriaDigital\bin\Facebook.dll
+Z:\ReitoriaDigital_Desenv\ReitoriaDigital\bin\Hammock.dll
+Z:\ReitoriaDigital_Desenv\ReitoriaDigital\bin\Newtonsoft.Json.dll
+Z:\ReitoriaDigital_Desenv\ReitoriaDigital\bin\TweetSharp.dll
+Z:\ReitoriaDigital_Desenv\ReitoriaDigital\bin\Facebook.xml
+Z:\ReitoriaDigital_Desenv\ReitoriaDigital\bin\Hammock.pdb
+Z:\ReitoriaDigital_Desenv\ReitoriaDigital\bin\Newtonsoft.Json.xml
+Z:\ReitoriaDigital_Desenv\ReitoriaDigital\bin\TweetSharp.pdb
+Z:\ReitoriaDigital_Desenv\ReitoriaDigital\obj\Release\ResolveAssemblyReference.cache
+Z:\ReitoriaDigital_Desenv\ReitoriaDigital\bin\ReitoriaDigital.dll
+Z:\ReitoriaDigital_Desenv\ReitoriaDigital\bin\ReitoriaDigital.pdb
+Z:\ReitoriaDigital_Desenv\ReitoriaDigital\obj\Release\ReitoriaDigital.dll
+Z:\ReitoriaDigital_Desenv\ReitoriaDigital\obj\Release\ReitoriaDigital.pdb
+Z:\ReitoriaDigital\ReitoriaDigital\bin\ReitoriaDigital.dll
+Z:\ReitoriaDigital\ReitoriaDigital\bin\ReitoriaDigital.pdb
+Z:\ReitoriaDigital\ReitoriaDigital\bin\Common.Logging.dll
+Z:\ReitoriaDigital\ReitoriaDigital\bin\Facebook.dll
+Z:\ReitoriaDigital\ReitoriaDigital\bin\Hammock.dll
+Z:\ReitoriaDigital\ReitoriaDigital\bin\Newtonsoft.Json.dll
+Z:\ReitoriaDigital\ReitoriaDigital\bin\TweetSharp.dll
+Z:\ReitoriaDigital\ReitoriaDigital\bin\Facebook.xml
+Z:\ReitoriaDigital\ReitoriaDigital\bin\Hammock.pdb
+Z:\ReitoriaDigital\ReitoriaDigital\bin\Newtonsoft.Json.xml
+Z:\ReitoriaDigital\ReitoriaDigital\bin\TweetSharp.pdb
+Z:\ReitoriaDigital\ReitoriaDigital\obj\Release\ResolveAssemblyReference.cache
+Z:\ReitoriaDigital\ReitoriaDigital\obj\Release\ReitoriaDigital.dll
+Z:\ReitoriaDigital\ReitoriaDigital\obj\Release\ReitoriaDigital.pdb

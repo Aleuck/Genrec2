@@ -1,0 +1,15 @@
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Extensao.dll
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Extensao.pdb
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Common.Logging.dll
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Facebook.dll
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Hammock.dll
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Newtonsoft.Json.dll
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Oracle.DataAccess.dll
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\TweetSharp.dll
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Facebook.xml
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Hammock.pdb
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Newtonsoft.Json.xml
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\TweetSharp.pdb
+C:\Users\deividim\Desktop\Engenharia\Extensao\obj\Release\Extensao.dll
+C:\Users\deividim\Desktop\Engenharia\Extensao\obj\Release\Extensao.pdb
+C:\Users\deividim\Desktop\Engenharia\Extensao\obj\Release\Genrec.csprojResolveAssemblyReference.cache

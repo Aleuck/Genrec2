@@ -1,0 +1,92 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Genrec.Master.cs" Inherits="Genrec._Genrec" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800,700' rel='stylesheet' type='text/css'>
+    <link rel="shortcut icon" href="~/img/favicon.ico">
+    <link href="~/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/css/font-awesome.min.css" rel="stylesheet">
+    <link href='~/css/ntid-ufrgs.css' rel='stylesheet' type='text/css'>
+    <link href="~/css/bootstrap-social.css" rel="stylesheet" >
+    <script src="js/jquery-1.11.0.min.js"></script>
+    <script src="js/jquery-ui-1.10.4.custom.min.js"></script>
+
+    <title>GENREC</title>
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <asp:ContentPlaceHolder ID="Extensao_head" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <noscript>
+        <div id="noscript" class="alert alert-warning">
+            <div class="help-inline">                
+                <h3>O seu browser não suporta javascript.</h3>
+                <a href="navegador-incompativel">Click aqui </a> para obter informações de como resolver.
+            </div>
+        </div>
+    </noscript>
+    <form id="form1" runat="server">
+        <div id="ntid-header" class="container">
+	        <div class="row">
+		        <div class="col-md-4 col-md-push-8" id="ntid-ajuda">
+			        <p class="text-right"><a href="#" id="ntid-btn-contraste">Alto contraste</a><a href="ajuda">Ajuda</a></p>
+		        </div>
+		        <div class="col-md-8 col-md-pull-4" id="ntid-logo">
+			        <img alt="" src="img/logo-ext.png" class="img-responsive">
+		        </div>
+	        </div>
+        </div>
+
+        <div id="ntid-navbar" class="container-fluid">
+	        <nav class="navbar navbar-default" role="navigation">
+		        <div class="container">
+			        <div class="navbar-header">
+			          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#ntid-navbar-box">
+				        <span class="sr-only">Exibir/ocultar menu</span>
+				        <span class="icon-bar"></span>
+				        <span class="icon-bar"></span>
+				        <span class="icon-bar"></span>
+			          </button>
+			        </div>
+			        <div class="collapse navbar-collapse" id="ntid-navbar-box">
+                        <asp:ContentPlaceHolder ID="Extensao_Menu" runat="server"></asp:ContentPlaceHolder>			
+			        </div>
+		       </div>
+	        </nav>
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="Extensao_Conteudo" runat="server">
+        
+            </asp:ContentPlaceHolder>
+        </div>
+    
+    <div id="ntid-footer" class="container-fluid">
+	    <div class="container">
+		    <div class="row">
+                <div class="col-md-12">
+                    Universidade Federal do Rio Grande do Sul
+			    </div>
+                <div class="col-md-12">
+                    ​Desenvolvido por Grupo 8 <i class="glyphicon glyphicon-copyright-mark"></i> 
+			    </div>
+                <div class="col-md-12">
+                    ​<asp:Label ID="labelCompilerVersion" ForeColor="#B0B0B0 " runat="server"></asp:Label> 
+			    </div>
+		    </div>
+	    </div>
+    </div>	
+    
+    <script src="js/bootstrap.min.js"></script>    
+    <script src="js/jquery.cookie.js"></script>
+    <script src="js/ntid-ufrgs.js"></script>
+    <script src="js/readmore.min.js"></script>
+  </form>
+</body>
+</html>

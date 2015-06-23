@@ -1,0 +1,349 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 10.5pt;
+	color: #333;
+	background: rgb(235,231,218) url(../img/bck.jpg) repeat-y center 312px;
+	} body.ntid-contraste  {
+		color: #FFF;
+		background: #000;
+}
+
+h1 {
+	font-family: 'Open Sans Extrabold', sans-serif;
+	font-size: 20pt;
+	color: #333;
+	} .ntid-contraste h1 {
+		color: #FFF;
+}
+
+i {
+font-family: "Open Sans Italic";
+}
+
+.ntid-contraste a,
+.ntid-contraste a:visited,
+.ntid-contraste a:hover {
+color: #FF0;
+}
+
+.ntid-contraste .btn-default,
+.ntid-contraste .btn-primary {
+background: transparent;
+border-color: #FFF;
+color: #FF0;
+}
+
+.ntid-contraste .nav-tabs>li>a,
+.ntid-contraste .nav-tabs>li>a:hover, 
+.ntid-contraste .nav-tabs>li>a:focus {
+	background: transparent;
+	border-color: #FFF;
+	color: #FF0;
+	} .ntid-contraste .nav-tabs>li.active>a,
+	.ntid-contraste .nav-tabs>li.active>a:hover, 
+	.ntid-contraste .nav-tabs>li.active>a:focus {
+		color: #FFF;
+}
+
+.ntid-contraste .nav-pills>li>a,
+.ntid-contraste .nav-pills>li>a:hover,
+.ntid-contraste.nav-pills>li>a:focus {
+	background: transparent;
+	border: 1px solid #FFF;
+	color: #FF0;
+	} .ntid-contraste .nav-pills>li.active>a,
+	.ntid-contraste .nav-pills>li.active>a:hover,
+	.ntid-contraste.nav-pills>li.active>a:focus {
+		background: transparent;
+		border: 1px solid #FFF;
+		color: #FFF;
+}
+
+.ntid-contraste .pager li>a,
+.ntid-contraste .pager li>span {
+	background: transparent;
+}
+
+.ntid-contraste .form-control,
+.ntid-contraste .form-control:focus {
+background-color: transparent;
+color: #FFF;
+}
+
+.ntid-contraste .navbar-default .navbar-nav>.active>a,
+.ntid-contraste .navbar-default .navbar-nav>.active>a:hover,
+.ntid-contraste .navbar-default .navbar-nav>.active>a:focus {
+	background-color: transparent;
+}
+
+.ntid-contraste .progress {
+background-color: transparent;
+border: 1px solid #FFF;
+}
+
+.ntid-contraste .progress-bar {
+background-color: #FFF;
+color: #000;
+border: 0;
+}
+
+.ntid-contraste textarea {
+background-color: #000;
+color: #FFF;
+}
+
+/* - barra.css - */
+@media screen {
+
+#barra-brasil div, #barra-brasil a, #barra-brasil ul, #barra-brasil li {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-family: inherit;
+  vertical-align: baseline; }
+
+#barra-brasil ul {
+  list-style: none; }
+
+#barra-brasil {
+  height: 32px;
+  background: #f1f1f1;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 32px;
+  font-family: "Open Sans",Arial,Helvetica,sans-serif; }
+  #barra-brasil a {
+    text-decoration: none; }
+
+#wrapper-barra-brasil {
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto !important;
+    width: 100%;
+    max-width: 1170px;
+}
+
+#barra-brasil .brasil-flag {
+    float: left;
+    padding: 7px 0 6px;
+    width: 115px;
+    height: 32px;
+    border-right: 2px solid #dfdfdf;
+}
+
+#barra-brasil .brasil-flag .link-barra {
+    display: block;
+    padding-left: 42px;
+    width: 43px;
+    background: url('../img/barra-brasil-bandeira.png') 8px center no-repeat;
+    text-transform: uppercase;
+    line-height: 19px;
+}
+
+#barra-brasil .acesso-info {
+    position: absolute;
+    left: 130px;
+}
+
+#barra-brasil .list {
+    line-height: inherit;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#barra-brasil .list .first { border-left: 2px solid #dfdfdf; }
+
+#barra-brasil .list-item {
+    display: inline-block;
+    padding: 0 15px 0 13px;
+    height: 32px;
+    border-right: 2px solid #dfdfdf;
+}
+
+#barra-brasil .link-barra { color: #606060; }
+
+@media screen and (max-width: 668px)  {
+    /* #barra-brasil .list { top: -100px; } */
+	#barra-brasil .list { display: none; }
+}
+
+@media screen and (min-width: 960px) {
+    #wrapper-barra-brasil { width: 1170px; }
+}
+
+/*  */
+}
+
+#ntid-header {
+
+	} #ntid-header #ntid-logo {
+		margin: 10pt 0 10pt 0;
+	} #ntid-header #ntid-ajuda {
+		line-height: 20pt;
+		height: 20pt;
+		} #ntid-header #ntid-ajuda a {
+			margin: 0 0 0 20px;
+			font-size: 10.5pt;
+			} .ntid-contraste #ntid-header #ntid-ajuda a {
+				color: #FF0;
+}
+
+.navbar-default {
+	//
+	} .ntid-contraste .navbar-text {
+		color: #FFF;
+	} .ntid-contraste .navbar-default {
+		background: transparent;
+		border-color: #FFF;
+	} #ntid-navbar {
+		font-size: 10.5pt;
+		} #ntid-navbar a {
+			color: #000;
+			} .ntid-contraste #ntid-navbar a {
+				color: #FF0;
+		} #ntid-navbar .ntid-participante {
+			font-weight: bold;
+}
+
+
+
+#content {
+
+	} #content h3 { /* LISTAGEM DE PERGUNTAS E RESPOSTAS */
+		font-family: 'Open Sans Extrabold', sans-serif;
+		font-size: 14pt;
+		line-height: 16pt;
+		margin: 3px 0 14px 0;
+
+	} #content .ntid-box {
+		-webkit-border-radius: 6px;
+		-moz-border-radius: 6px;
+		border-radius: 6px;
+		width: 100%;
+		background: #fff;
+		padding: 6px 14px 14px 14px;
+		margin: 0 0 25px 0;
+			} .ntid-contraste #content .ntid-box {
+				background: transparent;
+				border: 1px solid #FFF;
+			} #content .ntid-box h2 { /* CARTOLA - LISTAGEM DE PERGUNTAS E RESPOSTAS */
+				font-size: 10.5pt;
+				color: rgb(240,90,40);
+				margin: 3px 0 0 0;
+				} #content .ntid-box h2 a {
+					font-size: 8pt;
+				} .ntid-contraste #content .ntid-box h2 {
+					color: #FFF;
+			} #content .ntid-box-acoes {
+				margin: 20px 0 4px 0;
+				text-align: right;
+			} #content .ntid-box.ntid-pular {
+				color: transparent;
+				background: rgba(255,255,255,0.5);
+					} #content .ntid-box.ntid-pular h2, #content .ntid-box.ntid-votar h2 {
+						color: transparent;
+			} #content .ntid-box.ntid-votar {
+				border: 1px solid rgb(0,129,197);
+				color: transparent;
+				background: rgba(255,255,255,0.5);
+			} #content .ntid-login  {
+				
+				}#content .ntid-votacao  {
+				
+				} #content .ntid-votacao h3, #content .ntid-votacao h2 {
+					text-align: center;
+				} #content .ntid-votacao h2 {
+					margin: 14px 0 6px 0;
+				} #content .ntid-votacao .ntid-btn-votacao {
+						min-height: 6em;
+						display: table-cell;
+						margin: 14px 0;
+						padding: 14px;
+						white-space: pre-line;
+				} #content #ntid-modal-nao-consigo-decidir .modal-body input[type="submit"] {
+					min-height: 6em;
+					display: table-cell;
+					margin: 14px 0 0 0;
+					padding: 6px;
+					white-space: pre-line;
+					width: 100%;
+				} #content .ntid-barra-progresso {
+					margin: 10px 0;
+	} #content #ntid-indicadores-participacao, #content #ntid-procurar {
+		margin: 15px 0 0 0;
+			} #content #ntid-indicadores-participacao .ntid-indicadores-indicador {
+				float: left;
+				margin: 0 0 10px 0;
+				text-align: center;
+			} #content #ntid-indicadores-participacao .ntid-indicadores-indicador .ntid-numero {
+				color: rgb(0,129,197);
+				font-size: 36pt;
+				} .ntid-contraste #content #ntid-indicadores-participacao .ntid-indicadores-indicador .ntid-numero {
+					color: #FFF;
+	} #content #ntid-faq {
+		margin: 20px 0 25px 0;
+	} #content #ntid-faq .panel-heading {
+		background-color: rgb(0,129,197);
+		border: 0;
+		} .ntid-contraste #content #ntid-faq .panel-heading {
+			background-color: #000;
+			border-color: #FFF;
+		} #content #ntid-faq .panel-heading a {
+			color: #fff;
+			font-size: 10.5pt;
+			} .ntid-contraste #content #ntid-faq .panel-heading a {
+				color: #FF0;
+	} #content #ntid-procurar {
+		margin: 60px 0 0 0;
+	} #content #ntid-envie-sua-pergunta {
+		margin: 40px 0 0 0;
+	} #content #ntid-sel-temas {
+		margin: 40px 0 0 0;
+		} #content #ntid-sel-temas li.disabled {
+			text-decoration:line-through;
+			} .ntid-contraste #content #ntid-sel-temas li.disabled a {
+				color: white;
+}
+
+#ntid-navbar .form-inline {
+	line-height: 36px;
+}
+
+#ntid-footer {
+	border-top: 1px solid #64a8dd;
+	font-size: 9pt;
+	line-height: 17px;
+	padding: 5px 0 15px 0;
+	} .ntid-contraste #ntid-footer {
+		border-top: 1px solid #FFF;
+}
+.sem-borda
+{
+    border: 0px;
+}
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe,  .video-container object,  .video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#content .ntid-box-votos-quantidade {
+	font-size: 18pt;
+	color: rgb(0,129,197);
+}
+#content .ntid-box-votos-label {
+	font-size: 10pt;
+	color: #4EA325;
+}

@@ -1,0 +1,7 @@
+C:\Users\deividim\documents\visual studio 2010\Projects\GabineteDigital\GabineteDigital\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\deividim\documents\visual studio 2010\Projects\GabineteDigital\GabineteDigital\obj\Debug\GabineteDigital.dll
+C:\Users\deividim\documents\visual studio 2010\Projects\GabineteDigital\GabineteDigital\obj\Debug\GabineteDigital.pdb
+C:\Users\deividim\documents\visual studio 2010\Projects\GabineteDigital\GabineteDigital\bin\GabineteDigital.dll
+C:\Users\deividim\documents\visual studio 2010\Projects\GabineteDigital\GabineteDigital\bin\GabineteDigital.pdb
+C:\Users\deividim\documents\visual studio 2010\Projects\GabineteDigital\GabineteDigital\bin\Facebook.dll
+C:\Users\deividim\documents\visual studio 2010\Projects\GabineteDigital\GabineteDigital\bin\Facebook.xml

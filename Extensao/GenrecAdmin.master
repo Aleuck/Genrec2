@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Genrec.Master" AutoEventWireup="true" CodeBehind="GenrecAdmin.master.cs" Inherits="Genrec.GenrecAdmin" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="Extensao_head" runat="server">
+    <asp:ContentPlaceHolder ID="Extensao_head" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="Extensao_Menu" runat="server">
+    <ul class="nav navbar-nav">   
+        <li class="navbar-brand"><i class="glyphicon glyphicon-cog"></i>&nbsp;Administração</li>                         
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Cadastros<b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="funcionario"><i class="glyphicon glyphicon-user"></i> Funcionários</a></li>
+            <li><a href="recurso"><i class="glyphicon glyphicon-shopping-cart"></i> Recursos</a></li>
+            <li><a href="cargo"><i class="glyphicon glyphicon-pushpin"></i> Cargos</a></li>
+          </ul>
+        </li> 
+        <li >
+            <a href="meu-genrec">Minhas Reservas</a>
+        </li>        
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Relatórios<b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="#"><i class="glyphicon glyphicon-file"></i> Exemplo 1</a></li>
+            <li class="divider"></li>
+            <li><a href="#"><i class="glyphicon glyphicon-refresh"></i> Exemplo 2</a></li>
+          </ul>
+        </li>
+	</ul>
+    <p class="navbar-text navbar-right">
+            <asp:Label ID="labelParticipandoComo" runat="server" CssClass="navbar-link" >
+                Olá  
+                <span class="ntid-participante">
+                    <asp:Label ID="labelNomeParticipante" runat="server" />
+                </span>.
+                [<asp:LinkButton ID="lnkEfetuarLogoff" runat="server" OnClick="lnkEfetuarLogoff_Click"  Text="Sair" CausesValidation="false"/>]
+            </asp:Label>
+	</p>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="Extensao_Conteudo" runat="server">
+    <asp:ContentPlaceHolder ID="Extensao_Conteudo" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>

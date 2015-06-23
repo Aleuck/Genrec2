@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Genrec.Master" AutoEventWireup="true" CodeBehind="GenrecUsuario.master.cs" Inherits="Genrec.GenrecUsuario" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="Extensao_head" runat="server">
+    <asp:ContentPlaceHolder ID="Extensao_head" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="Extensao_Menu" runat="server">
+    <ul class="nav navbar-nav">   
+        <li class="navbar-brand"><i class="glyphicon glyphicon-cog"></i>&nbsp;Meu Genrec</li>                         
+        <li >
+            <a href="meu-genrec">Minhas Reservas</a>
+        </li>  
+        <li >
+            <a href="bloqueados">Desbloquear Usuário</a>
+        </li>      
+	</ul>
+    <p class="navbar-text navbar-right">
+            <asp:Label ID="labelParticipandoComo" runat="server" CssClass="navbar-link" >
+                Olá  
+                <span class="ntid-participante">
+                    <asp:Label ID="labelNomeParticipante" runat="server" />
+                </span>.
+                [<asp:LinkButton ID="lnkEfetuarLogoff" runat="server" OnClick="lnkEfetuarLogoff_Click"  Text="Sair" CausesValidation="false"/>]
+            </asp:Label>
+	</p>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="Extensao_Conteudo" runat="server">
+    <asp:ContentPlaceHolder ID="Extensao_Conteudo" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>

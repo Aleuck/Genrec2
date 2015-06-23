@@ -1,0 +1,44 @@
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\ReitoriaDigital\bin\ReitoriaDigital.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\ReitoriaDigital\bin\ReitoriaDigital.pdb
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\ReitoriaDigital\bin\Common.Logging.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\ReitoriaDigital\bin\Facebook.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\ReitoriaDigital\bin\Hammock.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\ReitoriaDigital\bin\Newtonsoft.Json.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\ReitoriaDigital\bin\Oracle.DataAccess.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\ReitoriaDigital\bin\TweetSharp.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\ReitoriaDigital\bin\Facebook.xml
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\ReitoriaDigital\bin\Hammock.pdb
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\ReitoriaDigital\bin\Newtonsoft.Json.xml
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\ReitoriaDigital\bin\TweetSharp.pdb
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\ReitoriaDigital\obj\Release\ReitoriaDigital.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\ReitoriaDigital\obj\Release\ReitoriaDigital.pdb
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\Extensao\bin\Common.Logging.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\Extensao\bin\Facebook.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\Extensao\bin\Hammock.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\Extensao\bin\Newtonsoft.Json.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\Extensao\bin\Oracle.DataAccess.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\Extensao\bin\TweetSharp.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\Extensao\bin\Facebook.xml
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\Extensao\bin\Hammock.pdb
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\Extensao\bin\Newtonsoft.Json.xml
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\Extensao\bin\TweetSharp.pdb
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\Extensao\bin\Extensao.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\Extensao\bin\Extensao.pdb
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\Extensao\obj\Release\Extensao.dll
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\Extensao\obj\Release\Extensao.pdb
+C:\Users\deividim\Documents\Visual Studio 2010\Projects\GeradorExtensao\Extensao\obj\Release\Extensao.csprojResolveAssemblyReference.cache
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Extensao.dll
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Extensao.pdb
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Common.Logging.dll
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Facebook.dll
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Hammock.dll
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Newtonsoft.Json.dll
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Oracle.DataAccess.dll
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\TweetSharp.dll
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Facebook.xml
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Hammock.pdb
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\Newtonsoft.Json.xml
+C:\Users\deividim\Desktop\Engenharia\Extensao\bin\TweetSharp.pdb
+C:\Users\deividim\Desktop\Engenharia\Extensao\obj\Release\Extensao.csprojResolveAssemblyReference.cache
+C:\Users\deividim\Desktop\Engenharia\Extensao\obj\Release\Extensao.dll
+C:\Users\deividim\Desktop\Engenharia\Extensao\obj\Release\Extensao.pdb

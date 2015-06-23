@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<configuration>
+	<configSections>
+		<section name="urlrewritingnet" restartOnExternalChanges="true" requirePermission="false" type="UrlRewritingNet.Configuration.UrlRewriteSection, UrlRewritingNet.UrlRewriter"/>
+	</configSections>
+	<system.web>
+		<compilation targetFramework="4.0" debug="true">
+			<assemblies>
+				<add assembly="Oracle.DataAccess, Version=4.112.3.0, Culture=neutral, PublicKeyToken=89B483F429C47342"/>
+				<add assembly="System.Web.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31BF3856AD364E35"/>
+			</assemblies>
+		</compilation>
+		<httpRuntime requestValidationMode="2.0"/>
+		<customErrors mode="RemoteOnly" defaultRedirect="~/erro-400">
+			<error statusCode="404" redirect="~/pagina-nao-encontrada"/>
+			<error statusCode="500" redirect="~/erro-500"/>
+			<error statusCode="505" redirect="~/erro-500"/>
+		</customErrors>
+		<httpHandlers>
+			<add path="ChartImg.axd" verb="GET,HEAD,POST" type="System.Web.UI.DataVisualization.Charting.ChartHttpHandler, System.Web.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" validate="false"/>
+		</httpHandlers>
+		<httpModules>
+			<add name="UrlRewriteModule" type="UrlRewritingNet.Web.UrlRewriteModule, UrlRewritingNet.UrlRewriter"/>
+		</httpModules>
+	</system.web>
+	<appSettings>		
+		<add key="ChartImageHandler" value="storage=file;timeout=20; dir=C:\inetpub\wwwroot\Extensao\Extensao\temp\chart\;"/>
+	</appSettings>
+	<connectionStrings>
+		<add name="conexaoDados" connectionString="DATA SOURCE=localhost;USER ID=USUARIO;PASSWORD=SENHA" providerName="Oracle.DataAccess.Client"/>
+	</connectionStrings>
+	<system.net>
+		<mailSettings>
+			<smtp>
+				<network host="localhost" port="21" userName="user" password="senha"/>
+			</smtp>
+		</mailSettings>
+	</system.net>
+	<system.webServer>
+		<modules>
+			<add name="UrlRewriter" type="Intelligencia.UrlRewriter.RewriterHttpModule"/>
+		</modules>
+		<httpErrors>
+			<remove statusCode="403" subStatusCode="-1"/>
+			<error statusCode="403" prefixLanguageFilePath="%SystemDrive%\inetpub\custerr" path="\403.htm" responseMode="File"/>
+		</httpErrors>
+	</system.webServer>
+	<urlrewritingnet rewriteOnlyVirtualUrls="true" contextItemsPrefix="QueryString" defaultPage="inicio" xmlns="http://www.urlrewriting.net/schemas/config/2006/07">
+		<rewrites>
+			<add name="Site-login" rewriteUrlParameter="ExcludeFromClientQueryString" ignoreCase="true" destinationUrl="~/Login.aspx" virtualUrl="^~/login"/>
+      <add name="Admin-home" rewriteUrlParameter="ExcludeFromClientQueryString" ignoreCase="true" destinationUrl="~/Default.aspx" virtualUrl="^~/admin-home"/>
+      <add name="Admin-funcionario" rewriteUrlParameter="ExcludeFromClientQueryString" ignoreCase="true" destinationUrl="~/FrmCadastroFuncionario.aspx" virtualUrl="^~/funcionario"/>
+      <add name="Admin-cargo" rewriteUrlParameter="ExcludeFromClientQueryString" ignoreCase="true" destinationUrl="~/FrmCadastroCargo.aspx" virtualUrl="^~/cargo"/>
+      <add name="Admin-recurso" rewriteUrlParameter="ExcludeFromClientQueryString" ignoreCase="true" destinationUrl="~/FrmCadastroRecurso.aspx" virtualUrl="^~/recurso"/>
+      <add name="Usuario-reserva" rewriteUrlParameter="ExcludeFromClientQueryString" ignoreCase="true" destinationUrl="~/FrmCadastroReserva.aspx" virtualUrl="^~/meu-genrec"/>
+      <add name="Usuario-bloqueados" rewriteUrlParameter="ExcludeFromClientQueryString" ignoreCase="true" destinationUrl="~/FrmBloqueados.aspx" virtualUrl="^~/bloqueados"/>
+      <add name="Almox-gerencia" rewriteUrlParameter="ExcludeFromClientQueryString" ignoreCase="true" destinationUrl="~/FrmGerenciarReserva.aspx" virtualUrl="^~/gerenciar-reserva"/>
+		</rewrites>
+	</urlrewritingnet>
+</configuration>
